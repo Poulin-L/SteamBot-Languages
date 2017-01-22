@@ -187,7 +187,7 @@
     "perm_remove": "Retrait des permissions suivantes pour %s dans ce(t) %s:\n %s",
     "achiev_percent": "des joueurs ont ce succès",
     "invite": "Utilisez ce lien pour m'inviter sur votre serveur:",
-    "me": "Assigner son nom d'utilisateur Steam à ",
+    "me": "Votre nom d'utilisateur Steam est assigné à ",
     "name": [" aura comme nom d'utilisateur ", "Votre nom d'utilisateur est désormais"],
     "currency": "Votre devise passe de %s à (%s, %s)",
     "country": "Votre pays passe de %s à %s",
